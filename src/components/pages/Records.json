@@ -1,0 +1,63 @@
+[
+    {
+       "id": 1,
+       "caption": "Bali Tour",
+       "icon": "images/bali.jpg",
+       "content": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, a Penida, Nusa Lembongan, and Nusa Ceningan."
+
+    },
+
+    {
+        "id": 2,
+        "caption": "Dubai Tour",
+        "icon": "images/dubai.jpeg",
+       "content": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies D and marine-animal parks"
+ 
+     },
+
+     {
+        "id": 3,
+        "caption": "Singapore Tour",
+        "icon": "images/sing.jpg",
+       "content": "Singapore, is a sovereign island country and city-state in maritime Southeast Asia. It lies about one degree of latitude (137 kilometres or 85 miles) north of the equator, off the southern tip of thChina Sea to the east, and the Straits of Johor to the north. "
+ 
+     },
+
+     {
+        "id": 4,
+        "caption": "France Tour",
+        "icon": "images/france.jpg",
+       "content": "No visit to the French capital is complete without a trip to and a trip up its most iconic structure. The 300-meter-tall Eiffel Tower was quite simply, the tallest man-made structure in the world, from its opening in 1889 for 41 years until 1930."
+ 
+     },
+     {
+      "id": 5,
+      "caption": "Goa Tour",
+      "icon": "images/goa.jpg",
+      "title": "Most Visited Place by Tourist",
+     "content": "Goa is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its preserved 17th-century churches and the area’s tropical spice plantations. Goa is also known for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages such as Agonda."
+
+   },
+   {
+      "id": 6,
+      "caption": "Mustang Tour",
+      "icon": "images/mustang.jpg",
+     "content": "Upper Mustang (formerly Kingdom of Lo) is an upper part (Northern area) of Mustang District, which is located in Nepal. The Upper Mustang was a restricted kingdom and demilitarized area until 1992  wh speaking traditional Tibetic languages. Tibetan culture has been preserved by the relative isolation of the region from the outside world. Life in Mustahusbandry and trade."
+
+   },
+   {
+      "id": 7,
+      "caption": "Pokhara Tour",
+      "icon": "images/mt.jpg",
+     "content": "Pokhara is a city on Phewa Lake, in central Nepal. It’s known as a gateway to the Annapurna Circuit, a popular trail in the Himalayas. Tal Barahi Temple, a 2-story pagoda, sits on an island in the lake. On the eastern shore, the Lakeside district has yoga centers and restaurants. In the city’s south, the International Mountain Museum has exhibits on the histof the Himalayas."
+
+   },
+   {
+      "id": 8,
+      "caption": "Thailand Tour",
+      "icon": "images/thai.jpg",
+     "content": "Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew)"
+
+   }
+]
+   

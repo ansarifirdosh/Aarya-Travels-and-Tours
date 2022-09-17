@@ -1,0 +1,38 @@
+[
+    {
+       "id": 1,
+       "caption": "Escape room experiences ",
+       "icon": "images/bali.jpg",
+       "content": "There may also be a gap in your local area for a niche tour guide business. For example: if your hometown was the birthplace of a famous musician or even a centuries-old famous cuisine, there could be a perfect opportunity to tap into that interest!",
+       "update": "Last updated 3 mins ago"
+
+    },
+
+    {
+        "id": 2,
+        "caption": "Glowing art rooms or VR rooms",
+        "icon": "images/room.jpg",
+       "content": "Of course, even if you don’t directly run tours and activities there are many different ways to build an amazing career in tourism. You could run a photography business, a souvenir shop, hiking gear rentals, become a travel blogger ",
+       "update": "Last updated 15 mins ago"
+ 
+     },
+     {
+      "id": 2,
+      "caption": "Survival or bushcraft trips",
+      "icon": "images/desert.jpg",
+     "content": "The tourism industry is such a rewarding one to work in. As a tour or activity operator, you can spend your days with great people, share your special part of the world and even raise awareness of important cultural or environmental values.  ",
+     "update": "Last updated 20 mins ago"
+
+   },
+   {
+      "id": 2,
+      "caption": "Fitness or wellbeing retreats.",
+      "icon": "images/fitness.jpg",
+     "content": "You could also consider more recent technology that people might be itching to try out, such as jet boarding, flyboarding and indoor skydiving. There may also be an opportunity to offer intentionally tech-free experiences – such as a retreat with no mobile reception where people can unwind! ",
+     "update": "Last updated 25 mins ago"
+
+   }
+
+     
+]
+   
